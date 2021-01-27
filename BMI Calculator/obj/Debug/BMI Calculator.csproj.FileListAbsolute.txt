@@ -1,0 +1,11 @@
+D:\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+D:\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+D:\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojAssemblyReference.cache
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.BMI.resources
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+D:\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Splashform.resources
